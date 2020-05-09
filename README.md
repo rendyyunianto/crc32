@@ -1,2 +1,2 @@
 # crc32
-perhutungan crc32 hexadecimal
+perhitungan crc32 hexadecimal
